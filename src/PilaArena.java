@@ -118,7 +118,7 @@ public class PilaArena {
 		// PARTE 1
 		// Derrumbe Simple
 		
-		/*
+		
 		// Crear matriz y colocar arena
 		matriz = new int[(int) lado][(int) lado];
 		matriz[pos_centro][pos_centro] = n;
@@ -131,7 +131,7 @@ public class PilaArena {
 		System.out.println("Ready at "+ k + " iteration");
 		Ventana ventana = new Ventana((int)lado, "Pila 1");
 		ventana.mostrarMatriz(matriz);
-		*/
+		
 		
 		// PARTE 2
 		// Derrumbe inteligente
